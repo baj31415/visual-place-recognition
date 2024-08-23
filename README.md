@@ -1,5 +1,5 @@
 
-# Visual Place Recognition
+# Visual Place Recognition, 2023
 
 ![Demo Image](demo.png "Visual Place Recognition, 2023.")
 
