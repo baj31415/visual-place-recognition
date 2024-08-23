@@ -1,0 +1,5 @@
+#Ignore large folders
+.build/
+.bin/
+.results/
+.dataset/
